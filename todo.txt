@@ -1,0 +1,10 @@
+-  header :  
+    css:     - pijltje op de juiste plek
+            
+
+    js:      - uitklappen menu wanneer klikt of hover 
+             - verdwijnen menu wanneer ergens anders geklikt wordt 
+             - verdwijnen menu wanneer er een keuze wordt gemaakt 
+
+
+
