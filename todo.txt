@@ -1,10 +1,19 @@
--  header :  
-    css:     - pijltje op de juiste plek
+
             
 
     js:      - uitklappen menu wanneer klikt of hover 
              - verdwijnen menu wanneer ergens anders geklikt wordt 
              - verdwijnen menu wanneer er een keuze wordt gemaakt 
 
+
+
+probleempjes om uit te zoeken 
+
+- beginpunt naar rechterbovenhoek
+- verschuiven van de tekst;   
+- denk eraan dat in grid op sommige plaatsen tekst en plaatje verwisseld zijn op desktop 
+
+-tweede gedeelte van de about section maken 
+- aanpassen menu zodat deze section zichtbaar is
 
 
