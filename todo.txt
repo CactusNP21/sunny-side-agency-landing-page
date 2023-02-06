@@ -1,19 +1,18 @@
-
-            
-
-    js:      - uitklappen menu wanneer klikt of hover 
-             - verdwijnen menu wanneer ergens anders geklikt wordt 
-             - verdwijnen menu wanneer er een keuze wordt gemaakt 
+- menu veranderen:  
+                    after effect toevoegen zodat het een speechbutton wordt.
+                     
 
 
 
-probleempjes om uit te zoeken 
+                        
 
-- beginpunt naar rechterbovenhoek
-- verschuiven van de tekst;   
-- denk eraan dat in grid op sommige plaatsen tekst en plaatje verwisseld zijn op desktop 
+About section :  Header transform padding?
+                 Stand out text
 
--tweede gedeelte van de about section maken 
-- aanpassen menu zodat deze section zichtbaar is
+                 menu url aanpassen 
+                 link om weer naar boven te gaan 
 
+
+
+   
 
