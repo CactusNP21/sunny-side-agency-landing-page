@@ -1,6 +1,7 @@
-- menu veranderen:  
-                    after effect toevoegen zodat het een speechbutton wordt.
-                     
+          
+
+    js:      - verdwijnen menu wanneer ergens anders geklikt wordt 
+             - verdwijnen menu wanneer er een keuze wordt gemaakt 
 
 
 
