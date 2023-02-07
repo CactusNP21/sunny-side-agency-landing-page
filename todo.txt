@@ -3,6 +3,15 @@
     js:      - verdwijnen menu wanneer ergens anders geklikt wordt 
              - verdwijnen menu wanneer er een keuze wordt gemaakt 
 
+om het menu te laten werken.
+
+- .menu-wrap .menu  
+   - position  relative 
+   - overflow : hidden moet verwijdert worden.
+   - zet de speech button op .menu_wrap en animatie het.
+
+
+- tekst en plaatjes  zo maken dat ze dynamisch worden. 
 
 
                         
