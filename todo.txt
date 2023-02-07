@@ -9,6 +9,9 @@ om het menu te laten werken.
    - position  relative 
    - overflow : hidden moet verwijdert worden.
    - zet de speech button op .menu_wrap en animatie het.
+   
+.toggler:checked ~ .menu > div::before  
+   verander de duration in hetzelfde als de andere animaties
 
 
 - tekst en plaatjes  zo maken dat ze dynamisch worden. 
