@@ -1,17 +1,24 @@
-// verbinden van de html met de javascript 
+// zoeken naar het menu-wrap en kijken of ik kan zien waar geklikt is 
 
-// verbinden met het icoontje van de hamburger menu
+menus = document.querySelectorAll('.menu_choice');
 
-const icon = document.querySelector('.hamb_line');
+toggler = document.querySelector('.toggler'); 
 
+/*  Maak een eventlistener voor alle menu-keuze's */ 
 
-// verbinden met het hamburger menu 
-
-const menu = document.querySelector('nav'); 
-
-
-// event listener voor het icoontje 
-
-icon.addEventListener('click', () => {
-    menu.classList.add("menu_open"); 
+menus.forEach( (menu) => {
+    menu.addEventListener('click', () => {
+        toggler.checked = false; 
+    }); 
 })
+
+
+
+
+
+
+
+
+
+
+

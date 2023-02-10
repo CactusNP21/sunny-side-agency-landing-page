@@ -1,29 +1,17 @@
-          
-
-    js:      - verdwijnen menu wanneer ergens anders geklikt wordt 
-             - verdwijnen menu wanneer er een keuze wordt gemaakt 
-
-om het menu te laten werken.
-
-- .menu-wrap .menu  
-   - position  relative 
-   - overflow : hidden moet verwijdert worden.
-   - zet de speech button op .menu_wrap en animatie het.
-   
-.toggler:checked ~ .menu > div::before  
-   verander de duration in hetzelfde als de andere animaties
+- animate speechbutton right.
+- scroll klopt niet helemaal 
 
 
-- tekst en plaatjes  zo maken dat ze dynamisch worden. 
 
 
-                        
+-- verder gaan met het client gedeelte 
+-- vier plaatjes
+-- footer 
+   -- logo 
+   -- menu 
+   -- social icons 
 
-About section :  Header transform padding?
-                 Stand out text
-
-                 menu url aanpassen 
-                 link om weer naar boven te gaan 
+            
 
 
 
