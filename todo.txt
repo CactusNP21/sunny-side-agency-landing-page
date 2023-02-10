@@ -1,8 +1,3 @@
-- animate speechbutton right.
-- scroll klopt niet helemaal 
-
-
-
 
 -- verder gaan met het client gedeelte 
 -- vier plaatjes
