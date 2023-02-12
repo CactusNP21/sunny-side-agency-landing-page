@@ -1,0 +1,41 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+}
+.about_transform, .about_stand_out {
+    display: flex;
+    flex-direction: column;
+}
+.image {
+    min-width: 50%;
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    gap: 8vh;
+    padding: 8vh 2vw;
+}
+
+@media (min-width: 768px) {
+    .about_transform.image {
+        flex: 1;
+    }
+     .about_stand_out {
+        flex-direction: row;
+        flex: 1;
+    }
+     :is(.about_transform, .about_stand_out) .image {
+        background-position: center;
+        height: auto;
+    }
+    .about_transform {
+        flex-direction: row-reverse;
+        flex: 1;
+        height: auto;
+    }
+}

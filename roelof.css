@@ -52,13 +52,15 @@
 body {
 font-family: 'Roboto', sans-serif;
 line-height: 1.4;
+  width: 100%;
 }
 
 header{
 background-image: url('./images/mobile/image-header.jpg');
-width: 375px;
 height:  538px;
-background-size: cover;  
+background-size: cover;
+  background-position: center;
+  width: 100%;
 }
 
 header .text {
@@ -316,13 +318,11 @@ width: 350px;
 .about_transform .image {
 background-image: url('./images/mobile/image-transform.jpg');
 background-size:  cover;
-width: 375px; 
+  background-position: center;
 height: 312px; 
 }
 
 .about .text {
-margin-top: 30px;
-margin-bottom: 30px;
 text-align: center;
 }
 
@@ -330,10 +330,6 @@ text-align: center;
 font-family: 'Fraunces', serif;
 font-weight: 900;
 font-size: 2em;
-margin-bottom: 20px; 
-padding-left: 20px;
-padding-right: 20px;  
-
 }
 
 .about p {
@@ -345,7 +341,6 @@ color: var(--very_dark_grayish_blue);
 
 .about .url {
 text-align: center;
-margin-bottom: 30px;  
 }
 
 .about a {
@@ -369,7 +364,6 @@ text-decoration-color: var(--soft_red);
 .about_stand_out .image {
 background-image: url('./images/mobile/image-stand-out.jpg');
 background-size:  cover;
-width: 375px; 
 height: 312px; 
 }
 
@@ -386,7 +380,6 @@ height: 312px;
 .design {
 background-image: url('./images/mobile/image-graphic-design.jpg');
 background-size:  cover;
-width: 375px; 
 height: 570px; 
 }
 
