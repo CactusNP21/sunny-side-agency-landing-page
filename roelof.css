@@ -71,13 +71,6 @@ header .text {
   font-size: 3em; 
 }
 
-.container {
-max-width: 375px;
-margin: auto;
-overflow: hidden;
-padding: 0 3rem;
-}
-
 .logo {
 margin-left: 20px; 
 padding-top: 20px; 
